@@ -1,2 +1,3 @@
 # hello-world
-My project to start me off.
+
+Hello my friends. This project is here to help me learn.
