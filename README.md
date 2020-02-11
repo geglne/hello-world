@@ -6,4 +6,4 @@ Hello my friends. This project is here to help me learn.
 
 02/10/2020 - Updated from 'feature/update-README1' branch. Test Merge1.
 
-02/10/2020 - Updated from 'feature/update-README2' branch. Test Merge2.
+02/10/2020 - Updated from 'feature/update-README2' branch. Test Merge2. Second Shot.
