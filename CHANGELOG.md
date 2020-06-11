@@ -1,3 +1,6 @@
+## 3.0.1 (June 11, 2020)
+
+
 ## 3.0.0 (June 11, 2020)
   - Merge pull request #28 from geglne/bmgf-dev
   - Clean directory and added Version control
