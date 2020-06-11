@@ -1,0 +1,46 @@
+## 3.0.1 (June 11, 2020)
+
+
+## 3.0.0 (June 11, 2020)
+  - Merge pull request #28 from geglne/bmgf-dev
+  - Clean directory and added Version control
+
+## 0.1.0 (June 11, 2020)
+  - Merge pull request #27 from geglne/uat
+  - Merge down (#26)
+  - Uat (#25)
+  - Features1-5 (#24)
+  - Feature4-5 (#23)
+  - Features1-3 (#18)
+  - Merge pull request #14 from geglne/uat
+  - Merge pull request #13 from geglne/dev
+  - Merge pull request #12 from geglne/feature1
+  - Check in and push to dev
+  - Merge pull request #11 from geglne/feature/update-README2
+  - Merge pull request #10 from geglne/feature/update-README1
+  - First Shot
+  - Second Shot
+  - Merge pull request #9 from geglne/feature/update-README2
+  - Fixed conflict
+  - Fixed conflict
+  - Merge pull request #8 from geglne/feature/update-README1
+  -  Test Merge2
+  - Test Merge1
+  - Merge pull request #6 from geglne/feature/update-README1
+  - Fixed conflict
+  - Merge pull request #7 from geglne/feature/update-README2
+  - [myJira-1001] updated README.md
+  - [myJira-1000] updated README.md
+  - Merge pull request #5 from geglne/uat
+  - Going to push to UAT first
+  - Merge pull request #4 from geglne/dev
+  - New file added
+  - This is a commit to dev
+  - Merge pull request #3 from geglne/feature-2
+  - Merge pull request #2 from geglne/geglne-feature-1
+  - Update README.md
+  - Update README.md
+  - Merge pull request #1 from geglne/readme-edits
+  - Finished README
+  - Initial commit
+
