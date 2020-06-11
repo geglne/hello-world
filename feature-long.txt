@@ -1,0 +1,3 @@
+This is the feature-long.txt file. 
+This is will be the second of two commits from the same head but different branches.
+Since the first commit has already been pushed, this one should fail?
