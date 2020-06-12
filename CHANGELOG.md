@@ -1,3 +1,8 @@
+## 4.0.1 (June 11, 2020)
+  - Fixed said bug
+  - If I was a rich man... 
+  - Merge pull request #34 from geglne/release-4.0.0
+
 ## 4.0.0 (June 11, 2020)
   - THIS IS MY OWN NOTE
   - Merge pull request #33 from geglne/bmgf-dev
