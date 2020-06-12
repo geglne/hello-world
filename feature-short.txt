@@ -1,2 +1,0 @@
-This is the feature-short.txt file. 
-This is will be the first of two commits from the same head but different branches.
