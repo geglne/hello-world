@@ -1,3 +1,35 @@
+## 4.0.1 (June 11, 2020)
+  - Fixed said bug
+  - If I was a rich man... 
+  - Merge pull request #34 from geglne/release-4.0.0
+
+## 4.0.0 (June 11, 2020)
+  - THIS IS MY OWN NOTE
+  - Merge pull request #33 from geglne/bmgf-dev
+  - Merge branch 'f3-solo' into bmgf-dev
+  - Last checkin for NextRelease - fixed all bugs
+  - Merge branch 'bmgf-base' into bmgf-dev
+  - Merge branch 'bmgf-base' of https://github.com/geglne/hello-world into bmgf-base
+  - Merge pull request #32 from geglne/bmgf-dev
+  - Merge branch 'bmgf-dev' into bmgf-base
+  - Merge branch 'bug-1' into bmgf-dev
+  - Pre-release bug: Removed feature-short.txt
+  - Merge branch 'bmgf-dev' into bmgf-base
+  - Merge branch 'f2-long' into bmgf-dev
+  - Fourth commit - f2-long (previous was mislabled
+  - Merge branch 'f2-short' into bmgf-dev
+  - Fourth commit - f2-short
+  - Merge branch 'feature-long' into bmgf-dev
+  - Second commit - part 2 - feature-long (might fail)
+  - Second commit - feature-long (might fail)
+  - Merge branch 'bug-feature-short' into bmgf-dev
+  - First commit - part 2 - feature-short
+  - Merge branch 'feature-short' into bmgf-dev
+  - First commit - feature-short
+  - Merge pull request #31 from geglne/master
+  - Merge pull request #29 from geglne/release-3.0
+  - Removed bump script
+
 ## 3.0.1 (June 11, 2020)
 
 
