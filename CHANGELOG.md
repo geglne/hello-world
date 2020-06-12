@@ -1,3 +1,9 @@
+## 4.0.2 (June 11, 2020)
+  - Merge remote-tracking branch 'origin/master' into bmgf-base
+  - Merge branch 'bugfix-4.0.2' into bmgf-base
+  - Patch: minor 4.0.2
+  - Merge pull request #37 from geglne/release-4.0.1
+
 ## 4.0.1 (June 11, 2020)
   - Fixed said bug
   - If I was a rich man... 
