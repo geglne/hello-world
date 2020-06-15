@@ -1,3 +1,0 @@
-This is f2-long.txt
-This will be the fourth in a series of commits.
-I'll merge it to bmgf-dev after f2-short is successfully merged
