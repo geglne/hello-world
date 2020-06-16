@@ -1,3 +1,7 @@
+## 4.1.1 (June 16, 2020)
+  - Bugfix to patch release 4.1.0
+  - Merge pull request #48 from geglne/release-4.1.0
+
 ## 4.1.0 (June 15, 2020)
   - Merge pull request #47 from geglne/bmgf-dev
   - 7a
