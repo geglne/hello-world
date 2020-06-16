@@ -1,3 +1,5 @@
+## Bug fix ensuing
+
 ## 4.1.0 (June 15, 2020)
   - Merge pull request #47 from geglne/bmgf-dev
   - 7a
