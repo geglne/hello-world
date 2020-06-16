@@ -1,3 +1,0 @@
-This is f3-solo
-This will be the fifth and a solo feature for dev.
-Adding this line to fix this bug. Silly me.
