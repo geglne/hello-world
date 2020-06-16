@@ -1,3 +1,11 @@
+## 4.1.2 (June 16, 2020)
+  - Merge pull request #51 from geglne/release-4.1.1
+  - Release 4.1.1
+  - Bugfix to patch release 4.1.0
+  - Bump version to 4.1.1.
+  - Bug fix 4.1.1
+  - Merge pull request #48 from geglne/release-4.1.0
+
 ## 4.1.1 (June 16, 2020)
   - Bugfix to patch release 4.1.0
   - Merge pull request #48 from geglne/release-4.1.0
