@@ -1,3 +1,6 @@
+## 4.1.1 (June 15, 2020)
+  - Bug fix 4.1.1
+
 ## Bug fix ensuing
 
 ## 4.1.0 (June 15, 2020)
