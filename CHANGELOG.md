@@ -1,3 +1,9 @@
+## 5.0.3 (June 16, 2020)
+  - Adding hotfix-4.1.3
+  - Rebased Hotfix for next release
+  - Merge pull request #57 from geglne/release-5.0.2
+  - Merge pull request #56 from geglne/release-5.0.1
+
 ## 5.0.2 (June 16, 2020)
   - Bugfix-5.0.2 change
 
