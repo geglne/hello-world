@@ -1,3 +1,8 @@
+## 5.0.1 (June 16, 2020)
+  - Added patch
+  - Release 5.0.1
+  - For release 5.0.1
+
 ## 5.0.0 (June 16, 2020)
   - THIS CHANGE WILL ROCK THE WORLD!
   - Merge pull request #55 from geglne/feature-5.0.0
