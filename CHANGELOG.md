@@ -1,3 +1,18 @@
+## 5.0.4 (June 16, 2020)
+  - Bump version to 5.0.4
+  - Release-5.0.4
+  - Bump version to 5.0.3.
+  - Adding hotfix-4.1.3
+  - Rebased Hotfix for next release
+  - Bump version to 5.0.3.
+  - hotfix-4.1.3
+
+## 5.0.3 (June 16, 2020)
+  - Adding hotfix-4.1.3
+  - Rebased Hotfix for next release
+  - Merge pull request #57 from geglne/release-5.0.2
+  - Merge pull request #56 from geglne/release-5.0.1
+
 ## 5.0.2 (June 16, 2020)
   - Bugfix-5.0.2 change
 
@@ -12,6 +27,9 @@
   - Feature-5.0.0
   - Merge pull request #52 from geglne/hotfix-4.1.2
   - Merge pull request #50 from geglne/release-4.1.1
+## 4.1.3 (June 16, 2020)
+  - hotfix-4.1.3
+  - Merge pull request #53 from geglne/hotfix-4.1.2
 
 ## 4.1.2 (June 16, 2020)
   - Merge pull request #51 from geglne/release-4.1.1
