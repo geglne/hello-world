@@ -1,3 +1,12 @@
+## 5.0.4 (June 16, 2020)
+  - Bump version to 5.0.4
+  - Release-5.0.4
+  - Bump version to 5.0.3.
+  - Adding hotfix-4.1.3
+  - Rebased Hotfix for next release
+  - Bump version to 5.0.3.
+  - hotfix-4.1.3
+
 ## 5.0.3 (June 16, 2020)
   - Adding hotfix-4.1.3
   - Rebased Hotfix for next release
