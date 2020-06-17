@@ -2,4 +2,6 @@ This is planned feature 5
 This the checkin for release-5.0.0
 This is checking for release-5.0.1
 This is checkin for bugfix-5.0.2
+This is a bugfix to patch Release-4.1.0
+This ia a hotfix to patch a Production-level issue.
 Hotfixed this issue with hotfixfile.txt
