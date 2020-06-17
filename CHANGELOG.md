@@ -1,3 +1,6 @@
+## 5.0.2 (June 16, 2020)
+  - Bugfix-5.0.2 change
+
 ## 5.0.1 (June 16, 2020)
   - Added patch
   - Release 5.0.1
