@@ -1,3 +1,10 @@
+## 5.0.0 (June 16, 2020)
+  - THIS CHANGE WILL ROCK THE WORLD!
+  - Merge pull request #55 from geglne/feature-5.0.0
+  - Feature-5.0.0
+  - Merge pull request #52 from geglne/hotfix-4.1.2
+  - Merge pull request #50 from geglne/release-4.1.1
+
 ## 4.1.2 (June 16, 2020)
   - Merge pull request #51 from geglne/release-4.1.1
   - Release 4.1.1
