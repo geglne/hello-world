@@ -5,3 +5,4 @@ This is checkin for bugfix-5.0.2
 Hotfixed this issue with hotfixfile.txt
 This is added to test a commit without a signature.
 This is added to test a commit WITH a GPG signature.
+Another quick change.
